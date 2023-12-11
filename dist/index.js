@@ -33,4 +33,15 @@ const variable1 = Talla.Mediana;
 console.log(variable1);
 const estado = 2;
 console.log(estado);
+const objeto = {
+    id: 1,
+    nombre: 'Felipe',
+    talla: Talla.Mediana,
+    direccion: {
+        numero: 1,
+        calle: 'Industria',
+        pais: 'Francia',
+    },
+};
+const arr = [];
 //# sourceMappingURL=index.js.map

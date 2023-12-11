@@ -111,3 +111,6 @@ const objeto: Persona = {
     pais: 'Francia',
   },
 };
+
+// solo vamos a poder incluir dentro de la Array elementos del Objeto 'Persona'
+const arr: Persona[] = [];
